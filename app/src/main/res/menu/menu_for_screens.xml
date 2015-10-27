@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuactivity1"
+        android:title="@string/save"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menuactivity2"
+        android:title="@string/display"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menuactivity3"
+        android:title="@string/clearpreferences"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom" />
+</menu>
